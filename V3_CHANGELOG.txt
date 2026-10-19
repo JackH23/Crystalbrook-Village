@@ -1,0 +1,8 @@
+V3 - REFERENCE AREA EXPANSION
+
+Added a lower crescent around the front and right of the original island.
+Maximum outward extension: 4.2 Blender units. New level: -0.65.
+Added two matching cottages, a curved stone cliff path with fences and lanterns,
+a lower pool and waterfall, a wooden dock with rowboat, and a seating garden.
+Village connections: front stairs and eastern switchback stairs.
+V2 is preserved in versions/Crystalbrook_Village_v2.blend.

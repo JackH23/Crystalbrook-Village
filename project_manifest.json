@@ -1,0 +1,117 @@
+{
+  "project": "Crystalbrook Village",
+  "revision": 12,
+  "active_scene": "Crystalbrook Village \u2022 Expanded",
+  "file": "Crystalbrook_Village.blend",
+  "previous_version": "versions/Crystalbrook_Village_v11.blend",
+  "objects": 128,
+  "vertices": 481051,
+  "faces": 475114,
+  "houses": 8,
+  "market_stalls": 4,
+  "saved_cameras": 11,
+  "engine": "CYCLES",
+  "hero_resolution": [
+    1700,
+    1450
+  ],
+  "changes_from_v1": [
+    "Three terrain levels with modeled retaining walls and recessed river channel",
+    "Houses reduced by 20 percent in manor height and 17 percent in cottage height",
+    "Right-side upper pool cascading into a lower river pool",
+    "Broader diagonal stone bridge with shallower deck and visible open arch",
+    "Broken cliff shelves, varied stone sizes and moss in crevices",
+    "Individual lobed leaves, visible tree branches and varied canopy heights",
+    "Paved routes and stairs linking doorways, stalls, bridge landings and terraces",
+    "Porches, shutters, dormers, gutter beams, chimney joints and mill annex",
+    "Fountain rim detail, water jets, transmissive crystal facets and local cyan light",
+    "Woven baskets, pottery, sacks, crates, handcart, benches and shop signs",
+    "Warmer sunlight, brighter terracotta, quieter varied windows and reflective water ripples"
+  ],
+  "external_texture_dependencies": [],
+  "expansion": {
+    "sector_degrees": [
+      -145,
+      40
+    ],
+    "maximum_added_width": 4.2,
+    "new_terrain_height": -0.65,
+    "use": "Reference expansion: cottages, cliff path, lower water and dock, seating garden",
+    "features": [
+      "Front and right crescent following user reference",
+      "Two stairs connecting existing routes",
+      "Matching cliff face and continuous underside",
+      "Two small additional timber cottages",
+      "Redirected eastern cascade into lower creek and new outer waterfall",
+      "Lower wooden dock and small rowboat",
+      "Creek footbridge, railings, lanterns and seating garden"
+    ]
+  },
+  "pool_terrace_fix": [
+    "Continuous widened curved stone terrace around the upper pool",
+    "Matching timber rails and planted cliff edge",
+    "Two benches and three flower boxes",
+    "Warm lanterns and trailing greenery",
+    "Broader eastern stair flights and rounded landing connecting to the lower dock"
+  ],
+  "stair_fix": [
+    "Removed circular landing and overlapping stair geometry",
+    "Moved stair entrance outside terrace edge",
+    "Two uniform-width flights with matched elevations",
+    "Chamfered stone landing with exterior lantern",
+    "Continuous timber dock joining the stairs to the lower path",
+    "Open rail entrances and planted rock supports"
+  ],
+  "garden_entrance_fix": [
+    "Removed diagonal fence and plants obstructing the upper stair approach",
+    "Rounded cream flagstone garden landing",
+    "Boundary rail behind the garden returns to first stair handrail",
+    "Paired timber planters with white, pink and yellow flowers",
+    "Rear tree, warm amber lantern and trailing cliff greenery"
+  ],
+  "latest_preview": "renders/v12/01_mill_sign_and_bench.png",
+  "rebuild_script": "scripts/rebuild_project.py",
+  "garden_terrace_v7": [
+    "Replaced tight circular landing with broad curved flagstone terrace",
+    "Added slatted timber bench between long flower beds",
+    "Moved flowers and railings to the outer edge",
+    "Retained clear stair approach and pool-facing route"
+  ],
+  "stairside_garden_v8": [
+    "Paved the bare grass gap between house stairs and garden path",
+    "Replaced the left timber box with a low stone flower bed",
+    "Added dense pink white and yellow flowers below the trees",
+    "Kept the lantern base and bench approach clear"
+  ],
+  "landing_fix_v9": [
+    "Individual flagstones on the middle landing",
+    "Aligned timber corner posts and continuous inner and outer handrails",
+    "Warm lantern beside a clear walking route",
+    "Edge flowers and trailing ivy"
+  ],
+  "inner_rail_fix": [
+    "Removed redundant clustered inner flight-end posts",
+    "Replaced overlapping return rails with a single corner post",
+    "Continuous upper and lower inner handrail with spaced supports"
+  ],
+  "mill_courtyard_fix": [
+    "Moved mill east and down onto a wider lower courtyard",
+    "Removed intersection with neighbouring garden cottage",
+    "Connected front door to existing lower perimeter path",
+    "Added matching stairs to upper timber bridge",
+    "Replaced old cramped cliff with garden retaining walls"
+  ],
+  "sign_and_bench_fix": [
+    "Moved floating old mill sign hardware to the relocated house",
+    "Removed old mill pottery and sack remnants",
+    "Moved the existing front bench to the marked right-side position",
+    "Added a paved seating recess clear of the main path"
+  ],
+  "bench_house_intersections": {
+    "06 \u2022 Little mill house.001": 0,
+    "Architecture \u2022 porches, dormers and shutters \u2022 06 \u2022 Little mill house": 0,
+    "Architecture \u2022 side lean-to \u2022 06 \u2022 Little mill house": 0,
+    "07 \u2022 Lower garden cottage": 0,
+    "08 \u2022 Creekside cottage": 0
+  }
+}

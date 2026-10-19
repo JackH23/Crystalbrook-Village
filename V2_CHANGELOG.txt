@@ -1,0 +1,13 @@
+IMPLEMENTED REFERENCE REFINEMENTS
+
+1. Three terrain levels with modeled retaining walls and recessed river channel
+2. Houses reduced by 20 percent in manor height and 17 percent in cottage height
+3. Right-side upper pool cascading into a lower river pool
+4. Broader diagonal stone bridge with shallower deck and visible open arch
+5. Broken cliff shelves, varied stone sizes and moss in crevices
+6. Individual lobed leaves, visible tree branches and varied canopy heights
+7. Paved routes and stairs linking doorways, stalls, bridge landings and terraces
+8. Porches, shutters, dormers, gutter beams, chimney joints and mill annex
+9. Fountain rim detail, water jets, transmissive crystal facets and local cyan light
+10. Woven baskets, pottery, sacks, crates, handcart, benches and shop signs
+11. Warmer sunlight, brighter terracotta, quieter varied windows and reflective water ripples
