@@ -1,10 +1,16 @@
-CRYSTALBROOK VILLAGE - VERSION 12
+CRYSTALBROOK VILLAGE - VERSION 15
 
 Open Crystalbrook_Village.blend. The active scene is the expanded village.
 The original village center, eight houses, market, crystal fountain and expanded
 front/right crescent are retained.
 
 LATEST REFERENCE CORRECTIONS
+V15: Removed the marked circular seating court and outer-fence bench. Added
+     one roadside bench facing the promenade, with a compact stone pad.
+V14: Realigned the riverside fence to the stone promenade edge, with seven
+     evenly spaced posts, connected rails and stone support pads.
+V13: Removed the eleven red-crossed lampposts from the plaza, stone bridge,
+     upper-right terrace and lower perimeter path. This removal is part of rebuild_project.py.
 V12: Attached the old mill sign bracket and board to the relocated house; removed
      leftover pottery and moved the marked bench into a paved recess on the right.
 V11: Moved the mill to a wider lower courtyard; separated it from adjacent

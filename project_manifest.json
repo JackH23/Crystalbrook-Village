@@ -1,9 +1,9 @@
 {
   "project": "Crystalbrook Village",
-  "revision": 12,
+  "revision": 15,
   "active_scene": "Crystalbrook Village \u2022 Expanded",
   "file": "Crystalbrook_Village.blend",
-  "previous_version": "versions/Crystalbrook_Village_v11.blend",
+  "previous_version": "versions/Crystalbrook_Village_v14.blend",
   "objects": 128,
   "vertices": 481051,
   "faces": 475114,
@@ -113,5 +113,82 @@
     "Architecture \u2022 side lean-to \u2022 06 \u2022 Little mill house": 0,
     "07 \u2022 Lower garden cottage": 0,
     "08 \u2022 Creekside cottage": 0
-  }
+  },
+  "removed_lampposts": {
+    "Lanterns \u2022 paths, bridges and terrace landings": [
+      [
+        2.0,
+        5.0
+      ],
+      [
+        3.0,
+        -2.5
+      ],
+      [
+        -3.0,
+        -2.5
+      ],
+      [
+        -1.463,
+        -4.288
+      ],
+      [
+        -5.407,
+        -7.829
+      ],
+      [
+        -3.537,
+        -9.912
+      ],
+      [
+        1.0,
+        -9.5
+      ]
+    ],
+    "Pool terrace \u2022 warm reference lanterns": [
+      [
+        11.104,
+        0.089
+      ],
+      [
+        10.946,
+        -1.437
+      ],
+      [
+        10.25,
+        -2.48
+      ]
+    ],
+    "Expansion \u2022 promenade lanterns and overlook benches": [
+      [
+        -1.052,
+        -13.237
+      ]
+    ]
+  },
+  "marked_lamp_count": 11,
+  "removed_lamp_vertices": {
+    "Lanterns \u2022 paths, bridges and terrace landings": 644,
+    "Pool terrace \u2022 warm reference lanterns": 240,
+    "Expansion \u2022 promenade lanterns and overlook benches": 80
+  },
+  "riverside_fence_fix": [
+    "Replaced the old island-outline fence beside the south river path",
+    "Aligned the replacement fence with the river-facing paving border",
+    "Removed duplicate joint posts and connected each rail span",
+    "Seated the posts on stone curb pads"
+  ],
+  "riverside_fence_posts": 7,
+  "roadside_seating_fix": [
+    "Removed the two-seat circular court and surrounding marked planting",
+    "Removed the marked outer-fence bench",
+    "Added one bench at the inner roadside with a compact stone pad",
+    "Kept the main promenade and outer safety fence clear"
+  ],
+  "new_roadside_bench_position": [
+    -0.9444131,
+    -12.2850484,
+    -0.54
+  ],
+  "roadside_bench_cliff_intersections": 0
 }

@@ -23,4 +23,13 @@ exec(compile((source/filename).read_text(encoding='utf-8'),str(source/filename),
 filename='fix_mill_sign_and_bench_v12.py'
 build_namespace['__file__']=str(source/filename)
 exec(compile((source/filename).read_text(encoding='utf-8'),str(source/filename),'exec'),build_namespace)
-print('Current V12 village rebuilt and saved.')
+filename='remove_marked_lamps_v13.py'
+build_namespace['__file__']=str(source/filename)
+exec(compile((source/filename).read_text(encoding='utf-8'),str(source/filename),'exec'),build_namespace)
+filename='align_riverside_fence_v14.py'
+build_namespace['__file__']=str(source/filename)
+exec(compile((source/filename).read_text(encoding='utf-8'),str(source/filename),'exec'),build_namespace)
+filename='simplify_roadside_seating_v15.py'
+build_namespace['__file__']=str(source/filename)
+exec(compile((source/filename).read_text(encoding='utf-8'),str(source/filename),'exec'),build_namespace)
+print('Current V15 village rebuilt and saved.')
